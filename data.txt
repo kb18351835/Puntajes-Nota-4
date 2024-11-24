@@ -1,0 +1,106 @@
+jose, 600, 0, 300, 1000, 700
+martina, 151, 286
+mauricio, 393, 533
+pedro, 448, 751, 650
+sebastián, 779, 659, 738
+mario, 156, 363, 438, 927, 956
+ana, 325, 200
+óscar, 849, 959, 522
+claudia, 605, 472
+victoria, 663, 951, 462
+sofía, 761, 270, 478
+elisa, 585, 527, 249, 615
+david, 791
+carlos, 88, 622, 305, 316
+alberto, 164, 549
+esteban, 247, 370, 181, 995, 376
+ángel, 201
+fabián, 992, 488, 7, 652
+francisco, 741, 139, 325, 197, 371
+arturo, 450
+matías, 658
+axel, 544, 375, 372
+clara, 463, 382, 724
+julián, 369, 794
+valeria, 202, 709
+jesús, 710, 900, 689, 595, 943
+javier, 75, 853, 952
+jorge, 466, 515
+kevin, 794
+liliana, 360, 399, 727, 381, 381
+fernando, 426, 417, 72
+cristina, 670
+rosa, 774
+pablo, 397, 312, 713
+amelia, 623, 1, 655, 722, 536
+diana, 702, 749
+mónica, 828
+tomás, 1000, 412
+inés, 885, 696, 225, 417, 303
+lorena, 994, 225, 831
+cecilia, 784
+sara, 363, 494
+enrique, 444, 215, 465, 950, 119
+marina, 885
+antonio, 450
+elena, 22, 902, 70, 901, 752
+silvia, 375, 697
+pilar, 331, 233, 138
+raúl, 950, 767, 195, 524, 503
+andrea, 57
+alejandra, 403, 518, 851, 643, 843
+hugo, 424, 860, 907
+eduardo, 916, 153, 184, 466, 441
+samuel, 55
+jimena, 656, 359, 332, 601
+camila, 281, 252
+daniela, 336
+nicolás, 633, 560, 772, 106
+gabriela, 423
+isabel, 177, 234, 284, 782, 193
+carla, 177, 786
+roberto, 468, 884
+marta, 428, 155, 405, 310, 880
+juan, 387, 395
+adrián, 326
+emma, 59, 498, 649, 461, 441
+natalia, 151, 50, 959, 947, 348
+manuel, 750, 49, 674, 991, 599
+maría, 162, 291, 30, 61
+marisol, 184, 711, 160, 953, 78
+daniel, 425, 677, 579, 771
+renata, 749, 123, 466
+emilio, 498, 907
+ángela, 816, 357
+guillermo, 318
+florencia, 148, 52, 142, 824
+verónica, 384
+fernanda, 70, 817, 758
+miguel, 65, 312
+bianca, 413, 189, 505
+patricia, 733, 328
+regina, 577, 847, 521, 12, 524
+bruno, 20
+alicia, 225
+paula, 720, 623, 713, 917
+laura, 134, 798, 298
+carmen, 215, 639
+ricardo, 367, 184, 445, 237
+luis, 104, 735, 536
+rubén, 601, 7, 102, 175, 950
+alejandro, 237, 400
+sergio, 608, 903
+gonzalo, 4, 154, 94, 76, 852
+luz, 900, 420, 819, 413, 967
+diego, 888, 169, 32, 638
+felipe, 705, 174, 741
+lucía, 650, 932, 365, 447, 812
+iván, 764
+fipi, 7
+yoyi, 798, 344, 987
+yuyop, 456, 857
+yh, 345, 456
+ty, 45, 567
+tyu, 45, 56
+ki, 234, 435
+yito, 1000, 1000, 1000, 1000, 1000
